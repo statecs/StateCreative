@@ -1,0 +1,14 @@
+{
+  "name": "statecreative-web",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "cd new && python3 -m http.server 8000",
+    "build": "node scripts/build.js",
+    "release": "npm run build && node release.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-ssh": "^13.1.0"
+  }
+}
