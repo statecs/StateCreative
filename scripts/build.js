@@ -1,8 +1,8 @@
-// Copies only the files the live site uses from new/ into build/.
+// Copies only the files the live site uses into build/.
 const fs = require('fs');
 const path = require('path');
 
-const src = path.join(__dirname, '..', 'new');
+const src = path.join(__dirname, '..');
 const out = path.join(__dirname, '..', 'build');
 
 const files = [
