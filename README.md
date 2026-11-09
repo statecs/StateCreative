@@ -50,7 +50,3 @@ If you add a new file that the site needs, add it to the `files` list in `script
 ## License
 
 © State Creative. All rights reserved. The code is public to read, but the State Creative name, logos and brand assets may not be reused.
-
-## Contact
-
-hello@statecreative.se
