@@ -1,6 +1,6 @@
 # State Creative
 
-Source for [statecreative.se](https://statecreative.se/), the website of State Creative, an independent Swedish studio for design, user experience, web development and consulting, founded in 2011.
+Source for [statecreative.se](https://statecreative.se/), the website of State Creative, an independent Swedish studio for design, user experience, software development and consulting, founded in 2011.
 
 It's a static, single-page site: plain HTML, CSS and JavaScript with no framework. Smooth scrolling comes from [Lenis](https://github.com/darkroomengineering/lenis).
 
